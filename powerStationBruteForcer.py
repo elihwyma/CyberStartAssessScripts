@@ -14,7 +14,7 @@ textx = 539; texty = 520
 x = 10000
 
 #You might be able to squeeze more time but this was as good as I could get
-timeToSleepForFailSafeLol = 0.05
+timeToSleepForFailSafeLol = 0.04
 
 #So that you can go to the window
 sleep(10)
